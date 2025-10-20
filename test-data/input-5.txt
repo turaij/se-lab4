@@ -1,0 +1,4 @@
+#all modban megprobalja elloni az osszes torpedot egyszerre
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL

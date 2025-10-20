@@ -1,0 +1,3 @@
+#itt csak akkor lesz siker, hogyha az elsovel tuzelt
+SUCCESS
+SUCCESS

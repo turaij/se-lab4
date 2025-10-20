@@ -1,0 +1,3 @@
+#ha a soron kovetkezo ures, akkor a masikat probalja meg elloni
+GT4500,0,0,1,0
+TORPEDO,SINGLE

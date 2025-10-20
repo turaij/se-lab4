@@ -1,0 +1,3 @@
+#a tuzeles nem lehet sikeres, a primary azert nem mert meghibasodott, a secondary azert nem mert az elso meghibasodott
+SUCCESS
+FAIL
