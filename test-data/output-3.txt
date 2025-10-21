@@ -1,0 +1,3 @@
+#elvileg az elsovel kene kezdeni, de mivel az ures, el kell tudja loni a masodikat, csak akkor lesz sikeres ha a masodikat lotte el
+SUCCESS
+SUCCESS

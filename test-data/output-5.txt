@@ -1,0 +1,4 @@
+#az elso sikeres kell legyen mert akkor kell ellonie mindkettot, a masodik nem lehet sikeres mert akkor mar mindketto ures
+SUCCESS
+SUCCESS
+FAIL

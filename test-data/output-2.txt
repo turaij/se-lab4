@@ -1,0 +1,4 @@
+#csak akkor lesz mindket tuzeles sikeres, ha tenyleg felvaltva tuzelt
+SUCCESS
+SUCCESS
+SUCCESS
